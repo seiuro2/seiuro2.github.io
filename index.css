@@ -1,0 +1,95 @@
+body{
+    background-color: #fff;
+    font-family:'Inconsolata', monospace;
+    width: 1440px;
+    height: 1080px;
+    margin: 30px;
+    padding: 40px 77px;
+}
+.menu  { 
+    padding: 20px;
+    font-family: Inconsolata;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+
+}
+.menu h1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+/*.button {
+    font-family:'Space Mono', monospace;
+    color: #fff;
+    display: flex;
+    /* margin-top: 64px;*/
+   /* font-size: 14px;
+    background-color: #333333;
+}*/
+.button-container{
+    justify-content: center;
+    align-items: center; 
+}
+.h4{
+    font-family:'Space Mono', monospace;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333333;
+
+}
+.container-image{
+    width: 0px;
+    margin: 150px 116px 367px 200px;
+
+
+}
+.container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 800px;
+    justify-items: end;
+
+    ;
+}
+.h2 {
+    /*i have a bad news*/
+    font-size: 50px;
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    font-weight: bold;
+    color: #333333;
+    margin: 15px 12px;
+    margin-bottom: 20px;
+}
+
+.p {
+    margin-right:80px;
+    justify-content: right;
+    font-size: 25px;
+}
+
+.h3 {
+    color: #333333;
+    font-family:'Space Mono', monospace;
+    font-size: 22px;
+    justify-content: center;
+    margin-right: 250px;
+    margin-left: 250px;
+    width: 250px;
+    height: 16px;
+}
+.container-text {
+    justify-content:center;
+    align-items: center;
+    margin-bottom: 200px;
+
+}
